@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: hadoop
+server:
+  port: 9000
+
+
+hdfs:
+  path: hdfs://hadoop101:9000
+  name: hadoop
